@@ -1,0 +1,2 @@
+# DAALab
+all practicals
